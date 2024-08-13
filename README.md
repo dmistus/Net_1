@@ -134,7 +134,7 @@ Output вывод Terraform выглядит следующим образом:
 
 Ссылка на terraform-файлы:
 
-https://github.com/dmistus/Nic_1/tree/main/src
+https://github.com/dmistus/Net_1/tree/main/src
 
 
 
